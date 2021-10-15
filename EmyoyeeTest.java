@@ -8,6 +8,7 @@ public class EmyoyeeTest {
         listEmyoyee Ds = new listEmyoyee();
         Ds.inputs();
         Ds.outputs();
+        quanLy ();
     }
 
     public static void quanLy (){
@@ -15,7 +16,8 @@ public class EmyoyeeTest {
         int choice = 1;
         while (true){
             switch(choice){
-                case 1:
+                case 1: Ds.inputs
+                case 2: Ds.outputs   
             }
         }
 
